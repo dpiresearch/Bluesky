@@ -2,6 +2,8 @@
 
 Read from firehose into Supabase, then query
 
+Demo video is here: https://youtu.be/m-Rcv4162PY
+
 ## Overview
 
 Use firehose.py to read from the Bluesky firehose, embed the content, and store in Supabase.
